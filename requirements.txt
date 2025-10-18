@@ -1,0 +1,5 @@
+geemap
+earthengine-api
+geopandas
+rasterio
+matplotlib
